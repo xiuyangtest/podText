@@ -1,0 +1,1 @@
+../../../MGJImage/MGJImage/MGJImageMetaInfo.h

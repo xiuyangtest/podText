@@ -1,0 +1,1 @@
+../../../MGJ-Categories/MGJCategories/Foundation/UIDevice+MGJKit.h

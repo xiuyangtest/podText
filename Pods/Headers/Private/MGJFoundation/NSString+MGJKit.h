@@ -1,0 +1,1 @@
+../../../MGJFoundation/MGJFoundation/Categories/NSString+MGJKit.h

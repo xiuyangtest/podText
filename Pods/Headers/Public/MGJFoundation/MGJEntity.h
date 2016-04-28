@@ -1,0 +1,1 @@
+../../../MGJFoundation/MGJFoundation/Classes/MGJEntity.h

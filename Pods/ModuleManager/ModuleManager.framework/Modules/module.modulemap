@@ -1,0 +1,6 @@
+framework module ModuleManager {
+  umbrella header "ModuleManager.h"
+
+  export *
+  module * { export * }
+}

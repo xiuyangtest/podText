@@ -1,0 +1,1 @@
+../../../MGJConfigCell/MGJConfigCell/Modules/ViewModel/MGJConfigPurpleViewModel.h

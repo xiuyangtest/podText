@@ -1,0 +1,1 @@
+../../../MGJImage/MGJImage/NSString+MGJImageAdapter.h

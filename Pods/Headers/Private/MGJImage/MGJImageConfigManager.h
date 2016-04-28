@@ -1,0 +1,1 @@
+../../../MGJImage/MGJImage/MGJImageConfigManager.h

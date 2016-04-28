@@ -1,0 +1,1 @@
+../../../MGJConfigCell/MGJConfigCell/Modules/ViewModel/MGJConfigGreenViewModel.h

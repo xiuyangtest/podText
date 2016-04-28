@@ -1,0 +1,1 @@
+../../../MGJZipArchive/SSZipArchive/minizip/zip.h

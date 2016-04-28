@@ -1,0 +1,1 @@
+../../../MGJLogger/MGJLogger/MGJLog.h

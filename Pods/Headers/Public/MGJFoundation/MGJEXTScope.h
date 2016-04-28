@@ -1,0 +1,1 @@
+../../../MGJFoundation/MGJFoundation/Macros/MGJEXTScope.h

@@ -1,0 +1,1 @@
+../../../MGJFoundation/MGJFoundation/Categories/NSBundle+MGJKit.h

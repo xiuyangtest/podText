@@ -1,0 +1,1 @@
+../../../MGJFoundation/MGJFoundation/Categories/NSObject+MGJSingleton.h

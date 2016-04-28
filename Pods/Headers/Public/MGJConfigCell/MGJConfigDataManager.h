@@ -1,0 +1,1 @@
+../../../MGJConfigCell/MGJConfigCell/Modules/Config/MGJConfigDataManager.h
